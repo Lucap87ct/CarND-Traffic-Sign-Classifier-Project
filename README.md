@@ -15,5 +15,9 @@ The goals / steps of this project are the following:
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
 
+Code guidelines
+---
+
 You can find the file Traffic_Sign_Classifier.ipynb that is a Jupyter notebook with Python code and report altogether.
-The German traffic sign images used for the project can be found in the original Udacity repository.
+
+The German traffic sign images used for the project can be found in the original Udacity repository (the pickled data files train.p, valid.p and test.p) and have to be copied into the project folder where the notebook is located.
